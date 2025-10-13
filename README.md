@@ -61,54 +61,13 @@ Languages: French — C1 · English — C1 · Arabic — Native
 
 ---
 
-## Featured Projects
-
-### Website to Chatbot Builder
-
-Web platform for building and deploying AI‑powered chatbots with customizable interfaces, advanced caching, conversation memory, and seamless website integration.
-
-![Chatbot Builder](assets/builder.jpg)
-
----
-
-### ArtTimeLapse — Frame‑based Screen Recorder
-
-Capture clean timelapses of your art process on Windows. Click‑drag to select a region, record at intervals, and export a single smooth GIF or MP4.
-
-![ArtTimeLapse](assets/timelapse.gif)
-
----
-
-### Threads of Memory
-
-A dreamlike puzzle‑adventure inviting players to explore a forgotten world filled with mystery and wonder.
-
-![Threads of Memory](assets/threadsofmemory.jpg)
-
----
-
-### WhatsApp Bot Desktop App
-
-Local, lightweight desktop automation focused on sending messages reliably to a specific contact.
-
-![WhatsApp Bot](assets/wpbot.jpg)
-
----
-
-### GolfVerse
-
-Stylized 3D golf prototype focusing on physics, feel, and polish. Currently under deployment.
-
-![GolfVerse](assets/golfverse.png)
-
-If video playback is blocked, open directly on Thumbsnap:
-[Open video](https://thumbsnap.com/egQgAckZ)
-
----
+<!-- Featured Projects section intentionally removed per request -->
 
 ## Experience
 
 ### Bilingual Customer Service Advisor — Xceed
+
+<img src="assets/xceed.png" height="40" alt="Xceed" />
 
 - Handled high‑volume inbound calls with professionalism and empathy
 - Identified customer needs and proposed relevant products to improve satisfaction and revenue
@@ -116,6 +75,8 @@ If video playback is blocked, open directly on Thumbsnap:
 - Maintained service quality via documentation and timely incident resolution
 
 ### Support Technician — HPS
+
+<img src="assets/hps.png" height="40" alt="HPS" />
 
 - Maintained PowerCard payment systems on Unix; resolved transaction incidents swiftly
 - Implemented software updates and patches while coordinating to minimize disruptions
