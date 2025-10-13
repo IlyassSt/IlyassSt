@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Chatbots%2FComputer%20Vision-1F1F1F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="AI & ML"/>
   <img src="https://img.shields.io/badge/Automation-Python%2FRPA-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Automation"/>
 
+  <br/>
+  <a href="https://ilyass-portfolio.rf.gd/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-7B3FE4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ilyass-salout/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </div>
 
 ---
@@ -117,7 +121,10 @@ Languages: French — C1 · English — C1 · Arabic — Native
 
 ## Get In Touch
 
-I’m open to opportunities in game development, AI, and full‑stack roles. Feel free to reach out via GitHub.
+I’m open to opportunities in game development, AI, and full‑stack roles.
+
+- Portfolio: [ilyass-portfolio.rf.gd](https://ilyass-portfolio.rf.gd/)
+- LinkedIn: [linkedin.com/in/ilyass-salout](https://www.linkedin.com/in/ilyass-salout/)
 
 ---
 
