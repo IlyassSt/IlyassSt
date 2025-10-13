@@ -126,15 +126,6 @@ Languages: French — C1 · English — C1 · Arabic — Native
 
 ---
 
-## How This Portfolio Is Built
-
-- Frontend: HTML, CSS, vanilla JS
-- Internationalization (EN/FR) with a simple client‑side dictionary
-- Theming with `data-theme` and localStorage persistence
-- Media modal for project preview with graceful fallbacks
-
----
-
 ## Get In Touch
 
 I’m open to opportunities in game development, AI, and full‑stack roles.
