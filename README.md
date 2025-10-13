@@ -1,8 +1,17 @@
-# Salout Ilyass
+<div align="center">
 
-Game Developer 🎮 · AI & Automation Specialist · Full‑Stack Developer
+  <h1>Salout Ilyass</h1>
+  <p>
+    Game Developer 🎮 · AI & Automation Specialist · Full‑Stack Developer<br/>
+    📍 Morocco, Casablanca‑Settat
+  </p>
 
-📍 Morocco, Casablanca‑Settat
+  <img src="https://img.shields.io/badge/Game%20Dev-Unity%2FUE5-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Game Dev"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Laravel%2FReact%2FPython-0A0A0A?style=for-the-badge&logo=laravel&logoColor=E34F26" alt="Full‑Stack"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Chatbots%2FComputer%20Vision-1F1F1F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="AI & ML"/>
+  <img src="https://img.shields.io/badge/Automation-Python%2FRPA-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Automation"/>
+
+</div>
 
 ---
 
@@ -18,14 +27,35 @@ Full‑stack developer and aspiring game developer passionate about building imm
 
 ## Skills
 
-- 🎮 Game Development
-  - Unity, Unreal Engine 5, gameplay systems, physics, polish
-- 🌐 Web Development
-  - Laravel, React, Python (Flask), REST APIs, caching, integration
-- 🤖 AI & Machine Learning
-  - Chatbots, computer vision, model integration, automation pipelines
-- 🐍 Automation & Scripting
-  - Python, RPA techniques, scripting for reliability and monitoring
+### Tech Stack (logos)
+
+<p>
+  <!-- Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="Unity" title="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="32" alt="Unreal Engine 5" title="Unreal Engine 5" />
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
+  <!-- Backend / Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" title="C" />
+  <!-- Data / Vision -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle / PL/SQL" title="Oracle / PL/SQL" />
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
+</p>
+
+### Domains
+
+- 🎮 Game Development — Unity, Unreal Engine 5, gameplay systems, physics, polish
+- 🌐 Web Development — Laravel, React, Python (Flask), REST APIs, caching, integration
+- 🤖 AI & Machine Learning — Chatbots, computer vision, model integration, automation pipelines
+- 🐍 Automation & Scripting — Python, RPA techniques, scripting for reliability and monitoring
 
 Languages: French — C1 · English — C1 · Arabic — Native
 
@@ -98,8 +128,13 @@ If video playback is blocked, open directly on Thumbsnap:
 ## Education
 
 - Master’s in Computer Engineering & Big Data — ENSA
+  
+  <img src="assets/ensa.png" height="40" alt="ENSA" />
+
 - ISART Digital affiliation: Video Game Creator program
   - Partners: Ministry of Youth, French Embassy, UIR
+  
+  <img src="assets/isart.jpg" height="40" alt="ISART Digital" />
 
 ---
 
