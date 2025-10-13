@@ -31,8 +31,6 @@ Full‑stack developer and aspiring game developer passionate about building imm
 
 ## Skills
 
-### Tech Stack (logos)
-Only technologies I actively use and can demonstrate.
 
 <p>
   <!-- Game Dev -->
