@@ -23,7 +23,7 @@
 
 Full‑stack developer and aspiring game developer passionate about building immersive experiences and practical AI solutions. I blend software engineering with creative problem‑solving, focusing on user experience, reliability, and clean architecture.
 
-- Pursuing a Master’s in Computer Engineering & Big Data (ENSA)
+- Master’s in Computer Engineering & Big Data (ENSA)
 - Certified through ISART Digital’s Video Game Creator program (affiliated with the Ministry of Youth, French Embassy, and UIR)
 - Comfortable working across product, support, and engineering to deliver clear, effective solutions
 
