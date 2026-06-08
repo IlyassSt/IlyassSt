@@ -1,138 +1,135 @@
 <div align="center">
 
-  <h1>Salout Ilyass</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=7B3FE4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ilyass+%F0%9F%91%8B;Python+Developer+%C2%B7+LLM+%26+RAG;AI+%26+Automation+Specialist;Full-Stack+Web+Developer;Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
+
   <p>
-    Game Developer 🎮 · AI & Automation Specialist · Full‑Stack Developer<br/>
-    📍 Morocco, Casablanca‑Settat
+    Building <b>LLM/RAG-powered features</b>, <b>AI automation</b>, <b>full-stack web apps</b> — and <b>games</b> 🎮<br/>
+    📍 Casablanca-Settat, Morocco
   </p>
 
-  <img src="https://img.shields.io/badge/Game%20Dev-Unity%2FUE5-111111?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Game Dev"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Laravel%2FReact%2FPython-0A0A0A?style=for-the-badge&logo=laravel&logoColor=E34F26" alt="Full‑Stack"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Chatbots%2FComputer%20Vision-1F1F1F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Automation-Python%2FRPA-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Automation"/>
-
-  <br/>
-  <a href="https://ilyass-portfolio.rf.gd/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-7B3FE4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ilyass-salout/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ilyass-portfolio.rf.gd/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7B3FE4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ilyass-salout/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saloutilyass8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=IlyassSt&color=7B3FE4&style=for-the-badge&label=Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-Full‑stack developer and aspiring game developer passionate about building immersive experiences and practical AI solutions. I blend software engineering with creative problem‑solving, focusing on user experience, reliability, and clean architecture.
+Python developer focused on **LLM / RAG**, **AI automation & web scraping**, and **full-stack web** — and an aspiring **game developer** who loves shipping clean, reliable, immersive software.
 
-- Master’s in Computer Engineering & Big Data (ENSA)
-- Certified through ISART Digital’s Video Game Creator program (affiliated with the Ministry of Youth, French Embassy, and UIR)
-- Comfortable working across product, support, and engineering to deliver clear, effective solutions
+- 🤖 Recently at **NexTraction**, I built LLM features (multi-persona AI panels, voice pitch simulator) and a RAG-style memory layer
+- 🎓 Master’s in **Computer Engineering & Big Data** — ENSA Berrechid
+- 🎮 Graduate of **ISART Digital’s** Video Game Creator program *(Ministry of Youth · French Embassy · UIR)*
+- 🌍 Languages: **French (C1)** · **English (C1)** · **Arabic (Native)**
+- 📫 Reach me: **saloutilyass8@gmail.com**
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
-
+**Languages**
 <p>
-  <!-- Game Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="Unity" title="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="32" alt="Unreal Engine 5" title="Unreal Engine 5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
-  
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
-
-  <!-- Backend / Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" title="C" />
-
-  <!-- AI / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV" title="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" title="NumPy" />
-
-  <!-- Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" alt="Selenium" title="Selenium" />
-
-  <!-- Tools / DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle / PL/SQL" title="Oracle / PL/SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" title="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" title="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" />
 </p>
 
-### Domains
+**Backend · Web · AI**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask" title="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" title="Laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" title="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" title="scikit-learn" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="OpenCV" title="OpenCV" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas" title="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy" title="NumPy" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" alt="Selenium" title="Selenium" />
+</p>
 
-- 🎮 Game Development — Unity, Unreal Engine 5, gameplay systems, physics, polish
-- 🌐 Web Development — Laravel, React, Python (Flask), REST APIs, caching, integration
-- 🤖 AI & Machine Learning — Chatbots, computer vision, model integration, automation pipelines
-- 🐍 Automation & Scripting — Python, RPA techniques, scripting for reliability and monitoring
-
-Languages: French — C1 · English — C1 · Arabic — Native
-
----
-
-<!-- Featured Projects section intentionally removed per request -->
-
-## Experience
-
-### Bilingual Customer Service Advisor — Xceed
-
-<img src="assets/xceed.png" height="40" alt="Xceed" />
-
-- Handled high‑volume inbound calls with professionalism and empathy
-- Identified customer needs and proposed relevant products to improve satisfaction and revenue
-- Consistently met monthly targets through clear communication and strong relationships
-- Maintained service quality via documentation and timely incident resolution
-
-### Support Technician — HPS
-
-<img src="assets/hps.png" height="40" alt="HPS" />
-
-- Maintained PowerCard payment systems on Unix; resolved transaction incidents swiftly
-- Implemented software updates and patches while coordinating to minimize disruptions
-- Analyzed transactional data with PL/SQL to identify trends and optimize performance
-- Developed automation scripts in C and Java to enhance monitoring and operational efficiency
-- Collaborated across teams to resolve technical issues and ensure compliance
-
----
-
-## Education
-
-- Master’s in Computer Engineering & Big Data — ENSA
-  
-  <img src="assets/ensa.png" height="40" alt="ENSA" />
-
-- ISART Digital affiliation: Video Game Creator program
-  - Partners: Ministry of Youth, French Embassy, UIR
-  
-  <img src="assets/isart.jpg" height="40" alt="ISART Digital" />
+**Game Dev · Cloud · DevOps · DB**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="Unity" title="Unity" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine 5" title="Unreal Engine 5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Microsoft Azure" title="Microsoft Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" title="Google Cloud" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" title="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="Jenkins" title="Jenkins" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="Jira" title="Jira" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="Oracle / PL/SQL" title="Oracle / PL/SQL" />
+</p>
 
 ---
 
-## Resumes
+## 💼 Experience
 
-- [Resume (EN)](assets/Ilyass_Salout_Full_Stack_Developer_EN.pdf)
-- [CV (FR)](assets/Ilyass_Salout_Full_Stack_Developer_FR.pdf)
+**🧠 Software Engineering Intern — NexTraction** · *Feb 2026 – May 2026*
+> *AI platform that helps founders validate their startup ideas.*
+- Shipped **8+ full-stack features** — Python / FastAPI backend and a Next.js / React / TypeScript app
+- Built **LLM features**: a multi-persona AI panel (4 investor personas) and a voice pitch simulator — structured JSON outputs, response streaming, model fallback with rate-limit handling, ElevenLabs STT/TTS
+- Built a **RAG-style memory layer** distilling each session into 5–15 structured facts for continuous, personalized AI conversations
+
+**☎️ Bilingual Customer Service Advisor — Xceed** · *Jul 2024 – Dec 2024*
+- Managed 60+ daily inbound calls in French and English, consistently meeting performance targets
+
+**💳 Support Technician — HPS** · *Oct 2023 – Apr 2024*
+- Analyzed PowerCard transaction data with **PL/SQL** on Unix/Linux in a **PCI-DSS** environment
+- Wrote **C and Java** scripts to automate monitoring and reduce manual checks
+
+**⚙️ Software Developer Intern — HPS** · *2022 – 2023*
+- Built full-stack internal web apps with **Laravel**; automated tasks with **Python (Selenium)** and deployed to production
 
 ---
 
-## Get In Touch
+## 🎓 Education
 
-I’m open to opportunities in game development, AI, and full‑stack roles.
-
-- Portfolio: [ilyass-portfolio.rf.gd](https://ilyass-portfolio.rf.gd/)
-- LinkedIn: [linkedin.com/in/ilyass-salout](https://www.linkedin.com/in/ilyass-salout/)
+- **Master’s — Computer Engineering & Big Data** · ENSA Berrechid · *2024 – 2026*
+- **Video Game Creator Program** · ISART Digital *(Ministry of Youth · French Embassy · UIR)* · *2025*
+- **Professional License — Full-Stack Web Dev & DevOps** · FST Settat · *2023 – 2024*
 
 ---
 
-© 2025 Salout Ilyass. Built with passion for technology and innovation.
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IlyassSt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyassSt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassSt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=IlyassSt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+---
+
+## 🏆 Recognition
+
+🎮 **Morocco Gaming Expo 2025** — Selected to showcase game projects to industry studios, investors, and the Minister of Youth *(through ISART Digital’s Video Game Creator program)*.
+
+---
+
+<div align="center">
+  <i>© 2025 Salout Ilyass — Built with passion for technology and innovation.</i>
+</div>
