@@ -105,42 +105,6 @@ Python developer focused on **LLM / RAG**, **AI automation & web scraping**, and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IlyassSt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyassSt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassSt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/>
-
-  <!-- WakaTime: replace YOUR_WAKATIME_USERNAME (see setup notes) -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=IlyassSt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake-purple.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake-purple.svg" />
-  </picture>
-</div>
-
----
-
 ## 🏆 Recognition
 
 🎮 **Morocco Gaming Expo 2025** — Selected to showcase game projects to industry studios, investors, and the Minister of Youth *(through ISART Digital’s Video Game Creator program)*.
