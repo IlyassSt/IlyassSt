@@ -118,8 +118,25 @@ Python developer focused on **LLM / RAG**, **AI automation & web scraping**, and
 
   <br/>
 
+  <!-- WakaTime: replace YOUR_WAKATIME_USERNAME (see setup notes) -->
+  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" />
+
+  <br/>
+
   <img src="https://github-profile-trophy.vercel.app/?username=IlyassSt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake-purple.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/IlyassSt/IlyassSt/output/github-snake-purple.svg" />
+  </picture>
 </div>
 
 ---
